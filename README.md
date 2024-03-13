@@ -1,3 +1,7 @@
+**_Acknowledgements_**
+
+This project is made through this [course](https://www.udemy.com/course/the-ultimate-react-course/).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
